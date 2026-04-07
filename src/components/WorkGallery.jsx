@@ -15,7 +15,7 @@ const projects = [
     description:
       "An advanced security auditing platform dedicated to vulnerability research and project-wide threat mitigation.",
     tags: ["Security", "Auditing", "Blockchain"],
-    link: "http://fortichain.xyz/",
+    link: "https://audit.forti-chain.xyz/",
   },
   {
     id: 3,
