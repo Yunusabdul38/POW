@@ -21,7 +21,7 @@ export const metadata = {
   openGraph: {
     title: "Yunus Abdulmajid | Portfolio",
     description:
-      "Bespoke mobile and web applications with a focus on smooth user experiences.",
+      "Beautiful mobile and web applications with a focus on smooth user experiences.",
     url: "https://yunusabdul.vercel.app/",
     siteName: "Yunus Abdulmajid Portfolio",
     locale: "en_US",
@@ -40,6 +40,8 @@ export const metadata = {
   },
   icons: {
     icon: "/icon.png",
+    shortcut: "/icon.png",
+    apple: "/icon.png",
   },
 };
 
