@@ -21,7 +21,7 @@ export const metadata = {
   openGraph: {
     title: "Yunus Abdulmajid | Portfolio",
     description:
-      "Beautiful mobile and web applications with a focus on smooth user experiences.",
+      "I build high-quality mobile and web apps that are easy to use, fast, and look great. I help you bring your ideas to life with a focus on real results and happy users.",
     url: "https://yunusabdul.vercel.app/",
     siteName: "Yunus Abdulmajid Portfolio",
     locale: "en_US",
