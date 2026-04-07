@@ -19,17 +19,17 @@ export const metadata = {
   ],
   authors: [{ name: "Yunus Abdulmajid" }],
   openGraph: {
-    title: "Yunus Abdulmajid | Portfolio",
+    title: "Yunus Abdulmajid",
     description:
       "I build high-quality mobile and web apps that are easy to use, fast, and look great. I help you bring your ideas to life with a focus on real results and happy users.",
     url: "https://yunusabdul.vercel.app/",
-    siteName: "Yunus Abdulmajid Portfolio",
+    siteName: "Yunus Abdulmajid",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Yunus Abdulmajid | Portfolio",
+    title: "Yunus Abdulmajid",
     description:
       "Expert Frontend & Mobile Developer specializing in seamless product experiences.",
     creator: "@yunusabdul38",
