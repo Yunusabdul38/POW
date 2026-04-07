@@ -25,7 +25,7 @@ const projects = [
   {
     id: 4,
     title: "Segun Portfolio",
-    description: "A beautiful showcase of user-friendly designs and digital experiences, focused on making apps easy and enjoyable for everyone to use.",
+    description: "A UI designer portfolio website showcasing high-quality digital designs and user experiences.",
     tags: ["Design", "Portfolio", "UI/UX"],
     link: "https://segun-aribido.vercel.app/"
   },
