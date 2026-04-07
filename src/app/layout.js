@@ -3,6 +3,7 @@ import { Inter, Outfit } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const outfit = Outfit({ subsets: ["latin"], variable: "--font-outfit" });
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata = {
   title: "Yunus Abdulmajid | Frontend & Mobile Developer",
@@ -50,6 +51,7 @@ export default function RootLayout({ children }) {
     <html lang="en" className={`${inter.variable} ${outfit.variable}`}>
       <body>
         <div id="grain" />
+        <Analytics />
         {children}
       </body>
     </html>
